@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "951766969680",
+    "firebase_url": "https://fcmdemo-afbf2.firebaseio.com",
+    "project_id": "fcmdemo-afbf2",
+    "storage_bucket": "fcmdemo-afbf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951766969680:android:92188b026d9bd36f",
+        "android_client_info": {
+          "package_name": "com.takeoffandroid.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951766969680-707ogfqsijs8v7cs2naiurh161lj5oqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyy2_selcNO6fk89yNd9CmCzR4DQ1_1oA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
